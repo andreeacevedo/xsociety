@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCkOHRXB8JF0WSjhNAls5S70B3NtUzTkJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304726596957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>aa.utec.com.XSocietyAppx</string>
+	<key>PROJECT_ID</key>
+	<string>xsociety-3916a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xsociety-3916a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304726596957:ios:30504e8b2aa62de7b85cb4</string>
+	<key>DATABASE_URL</key>
+	<string>https://xsociety-3916a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
