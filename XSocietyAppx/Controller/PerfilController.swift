@@ -97,7 +97,6 @@ extension PerfilController: UICollectionViewDelegateFlowLayout {
 // Implementación del delegado PerfilHeaderDelegate
 extension PerfilController: PerfilHeaderDelegate {
     func handleDismiss() {
-        print("Back button tapped in PerfilController") // Log para verificar que el método se llama
         navigationController?.popViewController(animated: true)
     }
 }
